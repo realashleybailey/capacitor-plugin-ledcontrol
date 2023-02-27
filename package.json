@@ -19,6 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/realashleybailey/capacitor-plugin-ledcontrol.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/realashleybailey"
+  },
   "bugs": {
     "url": "https://github.com/realashleybailey/capacitor-plugin-ledcontrol/issues"
   },
