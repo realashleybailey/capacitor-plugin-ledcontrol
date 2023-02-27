@@ -8,4 +8,10 @@ public class LEDControl {
         Log.i("Echo", value);
         return value;
     }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+
+    }
 }
